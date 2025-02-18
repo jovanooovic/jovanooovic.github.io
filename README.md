@@ -1,9 +1,7 @@
-# anajovanovic.github.io
-
-# Data Scientistg
+# Data Scientist
 
 ### Education
-Phd in Computer Science, University of Texas at Arlington
+PhD in Computer Science, University of Texas at Arlington
 
 ### Work Experience
 Research Assistant @ University of Texas at Arlington
