@@ -1,10 +1,13 @@
 # Data Scientist
 
+### Technical Skills: Python, SQL, R, 
+
 ### Education
-PhD in Computer Science, University of Texas at Arlington
+- Ph.D., Computer Science | The University of Texas at Arlington (_December 2024_)
+- B.S., Informational Systems and Technologies | University of Belgrade, Faculty of Organizational Sciences (_December 2019_)
 
 ### Work Experience
-Research Assistant @ University of Texas at Arlington
+Research Assistant @ the University of Texas at Arlington
   - big impact project 1!
   - big impact project 2!
 
