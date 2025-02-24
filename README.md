@@ -1,9 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, R, Java
-#### Data Science & Analysis: predictive modeling, data mining, statistical analysis
-#### Analysis and Visualization: numpy, pandas, matplotlib, seaborn, ggplot2
-#### Machine Learning: tensorflow, PyTorch, keras, scikit-learn Additional tools/environments: Ubuntu, Anaconda, Jupyter Notebook, Databricks
+##### Technical Skills: Python, SQL, R, Java
+##### Data Science & Analysis: predictive modeling, data mining, statistical analysis
+##### Analysis and Visualization: numpy, pandas, matplotlib, seaborn, ggplot2
+##### Machine Learning: tensorflow, PyTorch, keras, scikit-learn Additional tools/environments: Ubuntu, Anaconda, Jupyter Notebook, Databricks
 
 ## Education
 - Ph.D., Computer Science | The University of Texas at Arlington (_December 2024_)
