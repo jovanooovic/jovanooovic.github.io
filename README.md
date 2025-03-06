@@ -13,7 +13,7 @@
 Research Assistant @ the University of Texas at Arlington
   - Lead researcher on a three-year, $490,000 National Science Foundation grant, driving efforts to optimize software testing by minimizing redundant checks on unchanged code resulting in six peer-reviewed publications, with an additional paper under submission.
   - Spearheaded multiple research projects from inception to completion—defining research goals, retrieving and preparing data, conducting in-depth exploratory analysis, developing data models, and automating workflows for efficiency and scalability.
-  - Presented research findings at international conferences, effectively communicating complex concepts to a global audience and driving discussions on advancements in formal methods and software engineering.
+  - Presented research findings at international conferences, effectively communicating complex concepts to a global audience and driving discussions on formal methods and software engineering advancements.
 
 Teaching Assistant @ the University of Texas at Arlington
   - Led a diverse group of undergraduate and graduate students, fostering a deep understanding of advanced software engineering and discrete structures through structured guidance, mentorship, and hands-on problem-solving.
@@ -21,7 +21,21 @@ Teaching Assistant @ the University of Texas at Arlington
   - Meticulously analyzed performance trends and documented insights through spreadsheets, and detailed reports. Provided personalized guidance to students, equipping them with the skills and strategies needed for continuous improvement.
 
 ## Projects
- - Under construction!
+### Predicting Traffic Accident Severity in Texas
+    - This project analyzes Texas crash data to predict the severity of traffic accidents. The dataset spans from December 28, 2014, to December 28, 2024, focusing on key factors such as alcohol involvement, speeding, young drivers (16-22), and motorcycle-related crashes.
+    Objectives
+      Data Preprocessing & Feature Engineering: Clean and transform raw crash data into a structured format suitable for machine learning.
+      Exploratory Data Analysis (EDA): Identify patterns and correlations between crash severity and contributing factors.
+      Predictive Modeling: Train and evaluate machine learning models to classify accident severity based on available features.
+      Model Optimization & Evaluation: Improve model performance through hyperparameter tuning and feature selection.
+  Technologies Used
+      Python (pandas, NumPy, scikit-learn, XGBoost, PyTorch, etc.)
+      Data Visualization (matplotlib, seaborn, plotly)
+      Machine Learning (classification models like Logistic Regression, Random Forest, Gradient Boosting, etc.)
+  Potential Use Cases
+    Traffic Safety Analysis: Help authorities identify high-risk crash scenarios.
+    Policy Recommendations: Support data-driven decision-making for improving road safety.
+    Real-time Prediction: Potential integration into traffic monitoring systems to forecast accident risks.
 
 ## Publications
 1. Jovanovic A., Sullivan A. Towards Automated Input Generation for Sketching Alloy Models (2022). DOI: 10.1145/3524482.3527651
