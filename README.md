@@ -3,7 +3,8 @@
 ##### Technical Skills: Python, SQL, R, Java
 ##### Data Science & Analysis: predictive modeling, data mining, statistical analysis
 ##### Analysis and Visualization: numpy, pandas, matplotlib, seaborn, ggplot2
-##### Machine Learning: tensorflow, PyTorch, keras, scikit-learn Additional tools/environments: Ubuntu, Anaconda, Jupyter Notebook, Databricks
+##### Machine Learning: tensorflow, PyTorch, keras, scikit-learn 
+##### Additional tools/environments: Ubuntu, Anaconda, Jupyter Notebook, Databricks
 
 ## Education
 - Ph.D., Computer Science | The University of Texas at Arlington (_December 2024_)
@@ -20,7 +21,7 @@ Teaching Assistant @ the University of Texas at Arlington
   - Demonstrated strong leadership, directly contributing to an overall GPA increase from 3.04 at midterm to 3.21 by the end of the semester through strategic academic support and targeted interventions.
   - Meticulously analyzed performance trends and documented insights through spreadsheets, and detailed reports. Provided personalized guidance to students, equipping them with the skills and strategies needed for continuous improvement.
 
-## Projects
+## Projects 
 ### Predicting Traffic Accident Severity in Texas 🚗  
 
 #### Overview  
@@ -42,6 +43,7 @@ This project leverages machine learning to predict the severity of traffic accid
 - 📑 **Policy Recommendations** – Support data-driven decisions for traffic regulations and road planning.  
 - 🔮 **Real-Time Prediction** – Potential integration into traffic monitoring systems to forecast accident risks.  
 
+### Undergoing updates, stay tuned
 
 ## Publications
 1. Jovanovic A., Sullivan A. Towards Automated Input Generation for Sketching Alloy Models (2022). DOI: 10.1145/3524482.3527651
