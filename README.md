@@ -21,21 +21,27 @@ Teaching Assistant @ the University of Texas at Arlington
   - Meticulously analyzed performance trends and documented insights through spreadsheets, and detailed reports. Provided personalized guidance to students, equipping them with the skills and strategies needed for continuous improvement.
 
 ## Projects
-### Predicting Traffic Accident Severity in Texas
-    - This project analyzes Texas crash data to predict the severity of traffic accidents. The dataset spans from December 28, 2014, to December 28, 2024, focusing on key factors such as alcohol involvement, speeding, young drivers (16-22), and motorcycle-related crashes.
-    Objectives
-      Data Preprocessing & Feature Engineering: Clean and transform raw crash data into a structured format suitable for machine learning.
-      Exploratory Data Analysis (EDA): Identify patterns and correlations between crash severity and contributing factors.
-      Predictive Modeling: Train and evaluate machine learning models to classify accident severity based on available features.
-      Model Optimization & Evaluation: Improve model performance through hyperparameter tuning and feature selection.
-  Technologies Used
-      Python (pandas, NumPy, scikit-learn, XGBoost, PyTorch, etc.)
-      Data Visualization (matplotlib, seaborn, plotly)
-      Machine Learning (classification models like Logistic Regression, Random Forest, Gradient Boosting, etc.)
-  Potential Use Cases
-    Traffic Safety Analysis: Help authorities identify high-risk crash scenarios.
-    Policy Recommendations: Support data-driven decision-making for improving road safety.
-    Real-time Prediction: Potential integration into traffic monitoring systems to forecast accident risks.
+# Predicting Traffic Accident Severity in Texas 🚗  
+
+## Overview  
+This project leverages machine learning to predict the severity of traffic accidents in Texas using **crash data from December 28, 2014, to December 28, 2024**. The analysis focuses on key risk factors, including **alcohol involvement, speeding, young drivers (16-22), and motorcycle-related crashes**.  
+
+## Key Objectives  
+- **Data Preprocessing & Feature Engineering** – Clean and transform raw crash data for predictive modeling.  
+- **Exploratory Data Analysis (EDA)** – Identify patterns and correlations between accident severity and contributing factors.  
+- **Predictive Modeling** – Train and evaluate machine learning models to classify accident severity.  
+- **Model Optimization & Evaluation** – Improve model performance through hyperparameter tuning and feature selection.  
+
+## Technologies Used  
+- **Python**: pandas, NumPy, scikit-learn, XGBoost, PyTorch  
+- **Data Visualization**: matplotlib, seaborn, plotly  
+- **Machine Learning**: Logistic Regression, Random Forest, Gradient Boosting  
+
+## Potential Use Cases  
+- 🚦 **Traffic Safety Analysis** – Identify high-risk crash scenarios to improve road safety.  
+- 📑 **Policy Recommendations** – Support data-driven decisions for traffic regulations and road planning.  
+- 🔮 **Real-Time Prediction** – Potential integration into traffic monitoring systems to forecast accident risks.  
+
 
 ## Publications
 1. Jovanovic A., Sullivan A. Towards Automated Input Generation for Sketching Alloy Models (2022). DOI: 10.1145/3524482.3527651
