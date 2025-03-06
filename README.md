@@ -22,6 +22,9 @@ Teaching Assistant @ the University of Texas at Arlington
   - Meticulously analyzed performance trends and documented insights through spreadsheets, and detailed reports. Provided personalized guidance to students, equipping them with the skills and strategies needed for continuous improvement.
 
 ## Projects 
+
+### Undergoing updates, stay tuned
+
 ### Predicting Traffic Accident Severity in Texas 🚗  
 
 #### Overview  
@@ -42,8 +45,6 @@ This project leverages machine learning to predict the severity of traffic accid
 - 🚦 **Traffic Safety Analysis** – Identify high-risk crash scenarios to improve road safety.  
 - 📑 **Policy Recommendations** – Support data-driven decisions for traffic regulations and road planning.  
 - 🔮 **Real-Time Prediction** – Potential integration into traffic monitoring systems to forecast accident risks.  
-
-### Undergoing updates, stay tuned
 
 ## Publications
 1. Jovanovic A., Sullivan A. Towards Automated Input Generation for Sketching Alloy Models (2022). DOI: 10.1145/3524482.3527651
